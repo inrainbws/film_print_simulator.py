@@ -1,0 +1,53 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+.python-version
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+*.spec
+
+# Temporary and cache files
+.cache/
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Project specific (any misc files you don't want to commit)
+# Add project-specific ignores below
+
+film_print_simulator_macos.spec
